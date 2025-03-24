@@ -70,11 +70,5 @@ Her bir algoritma için örnek kullanımlar ve sonuçlar gösterilmektedir.
 | Linear Search | O(1) | O(n) | O(n) |
 | Binary Search | O(1) | O(log n) | O(log n) |
 
-## 🤝 Katkıda Bulunma
 
-1. Bu depoyu fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/yeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
-5. Pull Request oluşturun
 
