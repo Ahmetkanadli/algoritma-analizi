@@ -78,14 +78,3 @@ Her bir algoritma için örnek kullanımlar ve sonuçlar gösterilmektedir.
 4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
 5. Pull Request oluşturun
 
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 👥 İletişim
-
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-- Email: ornek@email.com
-
----
-⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! 
